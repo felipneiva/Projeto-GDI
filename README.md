@@ -2,7 +2,9 @@
 Projeto da cadeira de GDI (Gerenciamento de Dados e Informações) do Cin UFPE. Criação de um Sistema de Gerenciamento de Banco de Dados.
 <br>
 
-## Rede social de compra e venda de produtos usados
+## AV1 a AV4 -> Rede social de compra e venda de produtos usados (Banco de dados relacional)
+## AV5 e AV6 -> Rede social de compra e venda de produtos usados (Banco de dados objeto-relacional)
+## MongoDB -> Olímpiadas, países, esportes e atletas (Banco de dados não-relacional)
 
 ### Grupo:
  - Felipe Neiva (fnls)
